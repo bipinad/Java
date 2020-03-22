@@ -3,6 +3,12 @@ import javax.swing.JFrame;
 
 class House extends Canvas
 {
+House()
+	{
+		setSize(1000,1000);
+		setVisible(true);
+		setBackground(Color.GREEN);
+	}
 	public void paint(Graphics g)
 	{
 		g.drawRect(100, 300, 400, 300);
