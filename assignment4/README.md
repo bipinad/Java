@@ -20,3 +20,5 @@ java.awt.Graphics class provides many methods for graphics programming.
 - public abstract void setFont(Font font): is used to set the graphics current font to the specified font.
 
 # This is my house
+![](pic/house.png)
+
